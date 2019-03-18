@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7B85E4A3-43F0-B485-632C-69A651E61092}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameControl.cs">
+    <Files>
+      <File FileName="Assets/BallSensor.cs" Line="39" Column="58" />
+      <File FileName="Assets/GameControl.cs" Line="264" Column="55" />
+      <File FileName="Assets/StartMenu.cs" Line="17" Column="9" />
+      <File FileName="Assets/Leaderboard.cs" Line="104" Column="1" />
+      <File FileName="Assets/LeaderboardMenu.cs" Line="52" Column="1" />
+      <File FileName="Assets/Ball.cs" Line="27" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="173" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="229" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="239" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="240" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="246" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="248" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="256" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="263" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="249" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="250" column="1" />
+      <Breakpoint file="/Users/ringoho/unity/SkeeBall/Assets/GameControl.cs" relfile="Assets/GameControl.cs" line="251" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,4 @@
+#Tue Mar 19 07:00:11 HKT 2019
+base.0=/Users/ringoho/unity/SkeeBall/android/SkeeBall/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
